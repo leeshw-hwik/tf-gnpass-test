@@ -1,0 +1,12 @@
+
+.terraform/
+
+backup/
+
+.DS_Store
+
+terraform.tfstate.backup
+
+seoul-region-key-pair
+
+seoul-region-key-pair.pub

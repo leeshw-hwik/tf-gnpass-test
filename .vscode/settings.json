@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": 300,
+  "editor.fontSize": 13,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active"
+}
